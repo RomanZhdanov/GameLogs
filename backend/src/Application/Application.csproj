@@ -4,8 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>GameLogs.$(MSBuildProjectName)</AssemblyName>
-    <RootNamespace>GameLogs.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+    <AssemblyName>GamesLog.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>GamesLog.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,1 +1,1 @@
-# Game Logs
+# Games Log

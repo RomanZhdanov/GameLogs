@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace GameLogs.WebApi.Controllers
+namespace GamesLog.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

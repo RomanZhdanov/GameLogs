@@ -1,4 +1,4 @@
-namespace GameLogs.WebApi
+namespace GamesLog.WebApi
 {
     public class WeatherForecast
     {
